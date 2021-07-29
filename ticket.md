@@ -1,5 +1,4 @@
-<link rel="shortcut icon" type="image/jpg" href="favicon.jpg"/>
-
+<link href="./favicon.ico" rel="icon" type="image/x-icon" />
 ## Welcome to Karuta City Ticket Store Documentation!
 Welcome to the Karuta City Maid Ticket Store Documentation! If for some reason you're lurking here but havent join us yet, [why not?](https://discord.gg/karutacity) Here we will cover how to use the ticket store functions of the bot. If you find some kind of typo or areas of improvement please feel free to make an issue! We will try and resolve it asap.
 <iframe src="https://discord.com/widget?id=721059198816747580&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
@@ -47,7 +46,7 @@ If you see invalid-user, check the message again on your PC. Android phones ofte
 If you are seeing a string of numbers (a user ID), you can do `kmt number` and Karuta will ping the user. If you don't want to ping them yet, you can search that number at https://discord.id/ and it will tell you the user.
 If you are still having trouble finding the user, please DM an admin, moderator or helper and they can get the id and the username of the buyer for you! **DO NOT PRESS THE TICKET. YOU WILL REPORT THE USER WHICH WILL GET YOU WARNED.**<br><br>
 <b>Crap, I accidentally pressed the ticket! What should I do? (applies to both sellers and buyers)</b><br><br>
-Don't worry, if you accidentally pressed the ticket react, just tell an administrator or a mod. They won't warn you if you tell them. But if you do forget twice your perms will be removed! (First offence warn, second offence remove perms)<br><br>
+Don't worry, if you accidentally pressed the ticket react, just tell an administrator or a mod **BEFORE THEY WARN.** They won't warn you if you tell them. But if you do forget twice your perms will be removed! (First offence warn, second offence remove perms)<br><br>
 
 ### Support or Contact
 
