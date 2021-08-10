@@ -41,11 +41,10 @@ DM the bot:
 <img src='https://cdn.discordapp.com/attachments/777992083130023987/837783968840417281/unknown.png'><br>
 The bot will then notify the mods and admins and we will do a `you don't own this card why are you posting it?` :) <br><br>
 <b>I can only see invalid-user as the buyer. What should I do?</b><br><br>
-I can only see invalid-user as the buyer. What should I do?</b><br><br>
 If you see invalid-user, check the message again on your PC. Android phones often show invalid-user.
 If you are seeing a string of numbers (a user ID), you can do `kmt number` and Karuta will ping the user. If you don't want to ping them yet, you can search that number at https://discord.id/ and it will tell you the user.
 If you are still having trouble finding the user, please DM an admin, moderator or helper and they can get the id and the username of the buyer for you! **DO NOT PRESS THE TICKET. YOU WILL REPORT THE USER WHICH WILL GET YOU WARNED.**<br><br>
-<b>Crap, I accidentally pressed the ticket! What should I do? (applies to both sellers and buyers)</b><br><br>
+<b>Crap, I accidentally pressed the ticket! What should I do? (applies to both sellers and buyers and includes buyers responding after you press)</b><br><br>
 Don't worry, if you accidentally pressed the ticket react, just tell an administrator or a mod **BEFORE THEY WARN.** They won't warn you if you tell them. But if you do forget twice your perms will be removed! (First offence warn, second offence remove perms)<br><br>
 
 ### Support or Contact

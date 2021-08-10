@@ -45,7 +45,7 @@ The bot will then notify the mods and admins and we will do a `you don't own thi
 If you see invalid-user, check the message again on your PC. Android phones often show invalid-user.
 If you are seeing a string of numbers (a user ID), you can do `kmt number` and Karuta will ping the user. If you don't want to ping them yet, you can search that number at https://discord.id/ and it will tell you the user.
 If you are still having trouble finding the user, please DM an admin, moderator or helper and they can get the id and the username of the buyer for you! **DO NOT PRESS THE TICKET. YOU WILL REPORT THE USER WHICH WILL GET YOU WARNED.**<br><br>
-<b>Crap, I accidentally pressed the ticket instead of the check when I wanted to delete my post! What should I do?</b><br><br>
+<b>Crap, I accidentally pressed the ticket instead of the check when I wanted to delete my post! What should I do? (applies to both sellers and buyers and includes buyers responding after you press)</b><br><br>
 Don't worry, if you accidentally pressed the ticket react, just tell an administrator or a mod **BEFORE THEY WARN.** They won't warn you if you tell them. But if you do forget you will be warned in your second offence!<br><br>
 
 ### Support or Contact
