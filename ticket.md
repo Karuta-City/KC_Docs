@@ -27,7 +27,7 @@ If the bot DMs you after you react it means that you are in the waitlist of the 
 2. You must not troll react on other people's cards. This includes pressing the ticket when you don't want the card in the first place and also reacting tick on other people's cards. If you do that by accident please DM an admin or mod. Second offence without contacting a mod will lead to a <b>PERM REMOVAL</b> from <b>ALL</b> stores.
 3. You must not demand more tickets than where you posted you card in. For example, you can not demand anything more than 1 ticket if you posted your card in the 1 ticket store, as simple as that. 2 offences will lead to a <b>PERM REMOVAL</b> from <b>ALL</b> stores.
 4. Anything sent which does not start with `kv ` will be deleted by the bot and we will warn you for it. 2 offences will lead to a <b>PERM REMOVAL</b> from <b>ALL</b> stores.
-5. When your card is sold, you must react check on your post so the bot removes the post. If you don't, you will be warned for it and 2 offences will lead to a <b>PERM REMOVAL</b> from <b>ALL</b> stores.
+5. When your card is sold, you must react check on your post so the bot removes the post, even if its sold in another server. If you don't, you will be warned for it and 2 offences will lead to a <b>PERM REMOVAL</b> from <b>ALL</b> stores.
 
 ### FAQs
 <b>The person isn't interested anymore. What the heck?</b><br><br>
