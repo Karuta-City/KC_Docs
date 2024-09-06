@@ -51,4 +51,4 @@ Don't worry, if you accidentally pressed the ticket react, just tell an administ
 
 Having trouble with the Bot? Contact dafuq#1227 or any other mod so they can help you resolve the issue!<br><br>
 
-<p style="font-size:11px"><a href="https://discord.com/api/oauth2/authorize?client_id=791289445553930280&redirect_uri=https%3A%2F%2Fapi.karutacity.xyz:8001%2Fticket%2F&response_type=token&scope=identify">Press here to gain permissions to post.</a></p>
+<p style="font-size:11px"><a href="https://discord.com/api/oauth2/authorize?client_id=791289445553930280&redirect_uri=https%3A%2F%2Fapi.karuta.city:8001%2Fticket%2F&response_type=token&scope=identify">Press here to gain permissions to post.</a></p>
