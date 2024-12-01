@@ -1,4 +1,4 @@
-<link href="./favicon.ico" rel="icon" type="image/x-icon" />
+<link href="../favicon.ico" rel="icon" type="image/x-icon" />
 ## Welcome to Karuta City Ticket Store Documentation!
 Welcome to the Karuta City Maid Ticket Store Documentation! If for some reason you're lurking here but havent join us yet, [why not?](https://discord.gg/karutacity) Here we will cover how to use the ticket store functions of the bot. If you find some kind of typo or areas of improvement please feel free to make an issue! We will try and resolve it asap.
 <iframe src="https://discord.com/widget?id=721059198816747580&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
@@ -51,4 +51,4 @@ Don't worry, if you accidentally pressed the ticket react, just tell an administ
 
 Having trouble with the Bot? Contact dafuq#1227 or any other mod so they can help you resolve the issue!<br><br>
 
-<p style="font-size:11px"><a href="https://discord.com/api/oauth2/authorize?client_id=791289445553930280&redirect_uri=https%3A%2F%2Fapi.karuta.city:8001%2Fticket%2F&response_type=token&scope=identify">Press here to gain permissions to post.</a></p>
+<p style="font-size:11px"><a href="https://discord.com/api/oauth2/authorize?client_id=791289445553930280&redirect_uri=https%3A%2F%2Fapi.karuta.city%2Ftickets%2F&response_type=token&scope=identify">Press here to gain permissions to post.</a></p>
